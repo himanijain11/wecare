@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,700;1,700&family=Raleway:wght@100&display=swap');
+
+body {
+    /* background-color: lightgrey; */
+    border: 10px solid black;
+    margin: 0;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    /* padding: 0; */
+    /* margin: 0;
+    border: 10px solid white;
+    background: url(../ww.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */   
+
+  
+
+}
+
+.container{
+
+    /* border: 1px solid black; */
+    /* width: 100%; */
+    
+    /* padding: 100px; */
+    /* margin: 20px; */
+  
+    
+    
+
+}
+
+.head h1{
+color: black;
+
+display: inline-block;
+align-items: center;
+font-size: 50px;
+margin-bottom:40px;
+font-family: 'Raleway', sans-serif;
+
+/* margin-right: 100px;
+margin-left: 310px; */
+
+    align-items: center;
+    text-decoration-line: underline;
+
+
+}
+
+
+.place{
+
+    font-family: monospace ;
+    /* width: 100%; */
+    
+    
+    font-size: 13px;
+    color: black;
+    padding: 7px 0;
+    background: transparent;
+   
+    /* margin-right:80px; */
+
+    align-items: center;
+  }
+.questions{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+  .one{
+      border: 1px solid black;
+      border-radius: 10pt;
+      /* width: 50%; */
+      margin-top: 30px;
+      padding: 20px;
+      height: 313px;
+      flex-basis: 45%;
+
+  
+
+  }
+  .buttoni{
+    
+     margin-top: 50px;
+     display: flex;
+     flex-direction: column;
+    justify-content: space-between;
+  }
+  button{
+      margin-top: 5px;
+      margin-bottom: 5px;
+      
+
+  }
+
+  .two{
+    border: solid black;
+    width: 100%;
+    margin-top: 50px;
+
+      
+  }
+
+  .buto{
+    
+    margin-top: 50px;
+    display: flex;
+   justify-content: space-between;
+
+
+  }
+
+  .three{
+    border: solid black;
+    width: 100%;
+    margin-top: 50px;
+
+
+  }
+  .yn{
+    
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+  }
+
+  .four{
+    border: solid black;
+    width: 100%;
+    margin-top: 50px;
+
+  }
+
+  .buton{
+    margin-top: 50px;
+    display: flex;
+   justify-content: space-between;
+
+
+  }
+
+
+  .five{
+    border: solid black;
+    width: 100%;
+    margin-top: 50px;
+
+  }
+
+
+  .butona{
+    margin-top: 50px;
+    display: flex;
+   justify-content: space-between;
+
+
+
+  }
+
+
+
+
+
+

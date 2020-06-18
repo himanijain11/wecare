@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,700;1,700&family=Raleway:wght@100&display=swap');
+/* body {
+    
+    margin: 0;
+    border: 10px solid white;
+    background: url(../w.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    
+
+
+
+.container{
+    margin-left: 90px;
+    margin-bottom: 70px;
+
+  
+
+}
+.Login{
+    display: inline-block;
+    margin-bottom:90px;
+}
+
+.Login h1{
+        color: black;
+        align-self: left;
+        display: inline-block;
+        font-size: 70px;
+        margin-bottom:40px;
+        font-family: 'Raleway', sans-serif;
+        transition: .3s linear;
+}
+
+.Login h1:hover{
+    font-size: 90px;
+}
+
+.Text {
+    font-size: 20px;
+    align-items: center;
+    text-decoration-line: underline;
+
+    
+    
+}
+
+.log{
+    display: inline-flex;
+  flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+
+}
+  
+  
+.form__field {
+    font-family: inherit;
+    width: 50%;
+    border: 0;
+    border-bottom: 2px solid black ;
+    outline: none;
+    font-size: 1.3rem;
+    color: black;
+    padding: 7px 0;
+    background: transparent;
+    display: block;
+  }
+
+  .form_field1{
+      margin-bottom:70px;
+  }
+
+
+
+    input[type="text"]
+    {
+        background: transparent;
+    }
+  
+  
+  
+ 
+
+  .but1{
+      margin-top: 100px;
+      font-size: 30px;
+      border:  3px solid black;
+      background: white;
+      font-family: monospace;
+      width: 25%;
+      height: 50px;
+      transition: .5s ease-in;
+      
+  }
+  .but1:hover{
+      background-color: black;
+      color: white;
+  }
+
+  .kch{
+      width: 50%;
+      margin-top: 40px;
+
+  }
+
+  .kch a{
+      text-decoration: none;
+      color: black;
+  }
+
+  .forgot{
+       float: right; 
+  }
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
