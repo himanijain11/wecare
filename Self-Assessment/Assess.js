@@ -1,5 +1,5 @@
 import React,{Container, Component} from 'react';
-import './Assess.css';
+import '../Self-Assessment/Assess.css';
 
 class Assess extends Component{
     render(){
